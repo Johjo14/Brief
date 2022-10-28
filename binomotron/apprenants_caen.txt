@@ -1,0 +1,14 @@
+INSERT INTO liste_apprenants(nom_apprenant, prenom_apprenant, mail_apprenant)
+VALUES('LE GRAND','Kevin','kevin.le-grand@isen-ouest.yncrea.fr'),
+('PETIARD','Harold', 'harold.petiard@isen-ouest.yncrea.fr'),
+('SCANU','David', 'david.scanu@isen-ouest.yncrea.fr'),
+('ANCELIN','Antoine','antoine.ancelin@isen-ouest.yncrea.fr'),
+('JOURNAUX','Johann','johann.journaux@isen-ouest.yncrea.fr'),
+('LEBARBIER','Charley',	'charley.lebarbier@isen-ouest.yncrea.fr'),
+('DIABY','Amadou','amadou.diaby@isen-ouest.yncrea.fr'),
+('DAUMER','Geoffroy','geoffroy.daumer@isen-ouest.yncrea.fr'),
+('JULES','Dimitri','dimitri.jules@isen-ouest.yncrea.fr'),
+('GUERIN','Basile','basile.guerin@isen-ouest.yncrea.fr'),
+('OSWALD','Viacheslav','viacheslav.oswald@isen-ouest.yncrea.fr'),
+('DUSSART','Ramata Soraya','ramata-soraya.dussart@isen-ouest.yncrea.fr'),
+('ZOUITEN','Guinel','guinel.zouiten@isen-ouest.yncrea.fr')
